@@ -1,0 +1,1 @@
+This project focuses on detecting skin cancer using a dataset of 2,357 dermoscopic images from the ISIC (International Skin Imaging Collaboration) dataset available on Kaggle. The objective is to build a machine learning model that can accurately classify skin lesions as benign or malignant.
